@@ -1,0 +1,11 @@
+{
+  "name": "design-student-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "可维护的 UI / 交互设计学生作品集框架",
+  "scripts": {
+    "dev": "python3 -m http.server 4173 --bind 127.0.0.1",
+    "check": "node scripts/check.mjs"
+  }
+}
